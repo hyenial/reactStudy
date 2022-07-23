@@ -1,4 +1,4 @@
-# reactStudy
+# reactStudy   https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu-and-update-npm-to-the-latest-version/
 
 If you try installing the latest version of node using the apt-package manager, you'll end up with v10.19.0. This is the latest version in the ubuntu app store, but it's not the latest released version of NodeJS.
 
